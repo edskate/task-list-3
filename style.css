@@ -1,0 +1,19 @@
+body{
+    width: 80%;
+    height: 100%;
+    margin: 5%;
+    padding: 7%;
+}
+ol, li{
+    
+    background-color: rgb(246, 245, 245);
+    border: 3px solid ;
+    box-shadow: inset 1px 1px 2px ;
+    width: 80%;
+    height: 100%;
+}
+tr{
+    box-shadow: inset 3px #535353;
+    border: 3px solid;
+    text-shadow: 2px 3px 4pxa;
+}
